@@ -15,7 +15,7 @@ if [ -r ${CONFIGFILE} ]; then
 fi
 
 banner=1;
-while(TRUE)
+while(true)
     do
         echo "---BANNER $banner---"
         echo "Clicking Banner"
